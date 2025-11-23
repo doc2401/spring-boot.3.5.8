@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":spring-boot-project:spring-boot/main":[],":spring-boot-project:spring-boot-test/main":[]}'
